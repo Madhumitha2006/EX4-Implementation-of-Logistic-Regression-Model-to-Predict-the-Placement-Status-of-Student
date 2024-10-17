@@ -1,6 +1,5 @@
 # EX 4 Implementation of Logistic Regression Model to Predict the Placement Status of Student
 ## DATE:
-
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
@@ -62,7 +61,6 @@ cm_display.plot()
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/36c83483-4aaa-4242-835f-6d9385ac5ff6)
-
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
